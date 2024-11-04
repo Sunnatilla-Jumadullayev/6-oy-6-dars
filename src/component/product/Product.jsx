@@ -1,4 +1,4 @@
-import axios from "../../api";
+//ss
 import AOS from "aos";
 import "aos/dist/aos.css";
 import React, { useEffect, useState } from "react";
